@@ -2,3 +2,4 @@ streamlit
 csv 
 os
 numpy
+pandas
