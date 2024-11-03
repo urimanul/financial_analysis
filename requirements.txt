@@ -2,3 +2,4 @@ csv23
 os11
 numpy
 pandas
+streamlit
