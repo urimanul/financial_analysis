@@ -11,7 +11,7 @@ print("file name:" + file_path)
 df = pd.read_csv(file_path)
 
 #読み込んだデータの表示
-df.head()
+#df.head()
 
 #df = pd.DataFrame(data)
 
