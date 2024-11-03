@@ -1,3 +1,7 @@
+import csv, os
+import pandas as pd
+import numpy as np
+
 #対象のファイルのパス文字列を指定
 file_path = os.path.join(".","fy-balance-sheet.csv")
 print("file name:" + file_path)
